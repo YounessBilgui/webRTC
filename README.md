@@ -69,8 +69,8 @@ WebRTC Mesh Platform is a decentralized real-time communication system built on 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/webrtc-mesh.git
-   cd webrtc-mesh
+   git clone https://github.com/YounessBilgui/webRTC.git
+   cd webRTC.git
    ```
 
 2. Build and run the Spring Boot application:
